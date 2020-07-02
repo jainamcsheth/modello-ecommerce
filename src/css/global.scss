@@ -1,0 +1,126 @@
+@import './variables.scss';
+@import './media-queries.scss';
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+button:focus {
+  outline: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  margin-right: 5px;
+}
+
+a, a:hover {
+  text-decoration: none;
+  color: initial;
+}
+
+a:hover {
+  color: $secondary-color;
+}
+
+a.active {
+  font-weight: bold;
+}
+
+.flex-row {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.flex-column {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+.body-main {
+  background-color: #eaeaea;
+  margin: 0 20px;
+}
+
+svg {
+  font-size: 16px !important;
+  vertical-align: text-top !important;
+}
+
+.color-secondary {
+  color: $secondary-color;
+}
+
+.seperator {
+  margin: 0;
+  border: 3px solid $secondary-color;
+}
+
+.media-friendly-flex {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+
+/* Buttons */
+.button {
+  border: 0;
+}
+
+.button-primary {
+  color: white;
+  background-color: $secondary-color;
+  padding: 8px 10px;
+  width: 80%;
+  font-weight: bold;
+}
+
+
+/* Forms */
+input:focus {
+  border-color: $secondary-color !important;
+}
+
+.form-element {
+  width: 100%;
+  padding: 8px 15px;
+  border: 1px solid darkgrey;
+  position: relative;
+}
+
+.icon-inside-right {
+  position: absolute;
+  display: inline-block;
+  padding: 8px;
+  right: 2px;
+}
+
+@include mobile-potrait {
+  .media-friendly-flex {
+    flex-flow: column wrap;
+  }
+
+  .desktop-only {
+    display: none;
+  }
+}

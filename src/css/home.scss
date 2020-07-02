@@ -1,0 +1,18 @@
+@import './media-queries.scss';
+
+/* FeaturedArrivals */
+.featured-arrivals {
+  .active {
+    font-weight: bold !important;
+  }
+
+  .justify {
+    justify-content: center;
+  }
+
+  @include mobile-potrait {
+    .justify {
+      align-items: center;
+    }
+  }
+}

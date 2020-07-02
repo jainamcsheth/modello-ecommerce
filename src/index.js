@@ -1,12 +1,26 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import { Provider } from 'react-redux';
+import { createStore, applyMiddleware } from 'redux';
+import thunk from 'redux-thunk';
+
+import rootReducers from './reducers/combineReducers';
+import App from './App';
+
+import './core/FontAwesome'
+import './index.scss';
+import './css/global.scss';
+import './css/extras.scss';
+
+const initialState = {};
+const store = createStore(rootReducers, initialState, applyMiddleware(thunk));
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Provider store={store}>
+      <App />
+    </Provider>
   </React.StrictMode>,
   document.getElementById('root')
 );

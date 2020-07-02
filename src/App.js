@@ -1,24 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import Header from './core/Header';
+
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faUser } from '@fortawesome/free-regular-svg-icons';
+import Home from './components/Home';
+import InitialFetch from './core/InitialFetch';
+
+library.add(faUser)
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="body-main">
+      <Header />
+      <Home />
+      <InitialFetch />
     </div>
   );
 }
