@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/modello-ecommerce/static/css/main.77ec7804.chunk.css",
+    "main.js": "/modello-ecommerce/static/js/main.1d2dc137.chunk.js",
+    "main.js.map": "/modello-ecommerce/static/js/main.1d2dc137.chunk.js.map",
+    "runtime-main.js": "/modello-ecommerce/static/js/runtime-main.e015dc27.js",
+    "runtime-main.js.map": "/modello-ecommerce/static/js/runtime-main.e015dc27.js.map",
+    "static/js/2.59effa70.chunk.js": "/modello-ecommerce/static/js/2.59effa70.chunk.js",
+    "static/js/2.59effa70.chunk.js.map": "/modello-ecommerce/static/js/2.59effa70.chunk.js.map",
+    "index.html": "/modello-ecommerce/index.html",
+    "precache-manifest.7acf9dc70cdca6265eef43d15e1d9769.js": "/modello-ecommerce/precache-manifest.7acf9dc70cdca6265eef43d15e1d9769.js",
+    "service-worker.js": "/modello-ecommerce/service-worker.js",
+    "static/css/main.77ec7804.chunk.css.map": "/modello-ecommerce/static/css/main.77ec7804.chunk.css.map",
+    "static/js/2.59effa70.chunk.js.LICENSE.txt": "/modello-ecommerce/static/js/2.59effa70.chunk.js.LICENSE.txt",
+    "static/media/bags-female-black-1.png": "/modello-ecommerce/static/media/bags-female-black-1.0fee9966.png",
+    "static/media/bags-female-pink-1.png": "/modello-ecommerce/static/media/bags-female-pink-1.e9eed37b.png",
+    "static/media/dress-blue-1.png": "/modello-ecommerce/static/media/dress-blue-1.438bd975.png",
+    "static/media/dress-pink-1.png": "/modello-ecommerce/static/media/dress-pink-1.e886c238.png",
+    "static/media/jackets-black-1.png": "/modello-ecommerce/static/media/jackets-black-1.b9b561bb.png",
+    "static/media/jackets-female-red-1.png": "/modello-ecommerce/static/media/jackets-female-red-1.7f2791f9.png",
+    "static/media/jackets-green-1.png": "/modello-ecommerce/static/media/jackets-green-1.f4cb5d7e.png",
+    "static/media/jackets-red-1.png": "/modello-ecommerce/static/media/jackets-red-1.91ccaec1.png",
+    "static/media/pants-formals-blue-1.png": "/modello-ecommerce/static/media/pants-formals-blue-1.6315dfb0.png",
+    "static/media/shirt-blue-1.png": "/modello-ecommerce/static/media/shirt-blue-1.2782b7aa.png",
+    "static/media/shirt-blue-2.jpg": "/modello-ecommerce/static/media/shirt-blue-2.ba179a02.jpg",
+    "static/media/shirt-hawaiian-1.png": "/modello-ecommerce/static/media/shirt-hawaiian-1.0f6ecaaf.png",
+    "static/media/shopping-model-background-1.png": "/modello-ecommerce/static/media/shopping-model-background-1.bc510b4d.png",
+    "static/media/shopping-model-background-2.jpg": "/modello-ecommerce/static/media/shopping-model-background-2.4f4162c1.jpg",
+    "static/media/tracks-red-1.png": "/modello-ecommerce/static/media/tracks-red-1.4d45ec30.png",
+    "static/media/trousers-blue-1.png": "/modello-ecommerce/static/media/trousers-blue-1.d977bc90.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e015dc27.js",
+    "static/js/2.59effa70.chunk.js",
+    "static/css/main.77ec7804.chunk.css",
+    "static/js/main.1d2dc137.chunk.js"
+  ]
+}
