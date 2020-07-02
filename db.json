@@ -1,0 +1,337 @@
+{
+  "shoppingItems": [
+    {
+      "id": 1,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "shirt-blue-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "dress-pink-1.png"
+      ],
+      "categories": [
+        "arrivals"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "shirt-blue-3.jpg"
+      ],
+      "categories": [
+        "arrivals"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "pants-cargo-1.jpg"
+      ],
+      "categories": [
+        "featured",
+        "arrivals"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "jackets-green-1.png"
+      ],
+      "categories": [
+        "featured",
+        "arrivals"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "pants-cargo-2.jpg"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "jackets-black-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "jackets-red-1.png"
+      ],
+      "categories": [
+        "arrivals"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "jackets-female-red-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "bags-female-pink-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "tracks-red-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "bags-female-black-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "pants-formals-blue-1.png"
+      ],
+      "categories": [
+        "arrivals"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "shirt-blue-2.jpg"
+      ],
+      "categories": [
+        "arrivals"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "jackets-black-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "shirt-blue-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "pants-cargo-1.jpg"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "jackets-green-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "trousers-blue-1.png"
+      ],
+      "categories": [
+        "arrivals",
+        "featured"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "pants-cargo-2.jpg"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "shirt-hawaiian-1.png"
+      ],
+      "categories": [
+        "arrivals"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "dress-blue-1.png"
+      ],
+      "categories": [
+        "arrivals"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "jackets-black-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "jackets-female-red-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "bags-female-pink-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "tracks-red-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Slim Pants",
+      "cost": "279",
+      "company": "videohive",
+      "images": [
+        "bags-female-black-1.png"
+      ],
+      "categories": [
+        "featured"
+      ]
+    }
+  ],
+  "totalCartItems": {
+    "count": 1
+  },
+  "totalWishListItems": {
+    "count": 2
+  }
+}
