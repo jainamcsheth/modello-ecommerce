@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Card from 'react-bootstrap/Card'
-
 import { connect } from 'react-redux';
+
 import { updateCartCount, updateWishListCount } from '../../actions/actions';
 
 const styles = {
@@ -92,7 +92,7 @@ const ShoppingCard = (props) => {
           <div className="company-name mb-1">{props.item.company}</div>
           <div className="product-name mb-2">{props.item.name}</div>
           <div className="cost mb-2">${props.item.cost}</div>
-          {showExtraState ? displayAddToCart() : null}
+          {showExtraState && displayAddToCart()}
         </div>
       </Card.Body>
     </Card>

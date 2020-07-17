@@ -59,6 +59,8 @@ class ItemsDisplay extends React.Component {
             );
           })
         }
+        <LoadMore updateTotalItemsToShow={this.updateTotalItemsToShow} updateBy={4} />
+
       </div>
     );
   }
@@ -71,7 +73,6 @@ class ItemsDisplay extends React.Component {
             ? <div className="text-center font-weight-bold">'Loading...'</div>
             : this.displayItems()
         }
-        <LoadMore updateTotalItemsToShow={this.updateTotalItemsToShow} updateBy={4} />
         <SignUpNewsLetter />
       </div>
     );
